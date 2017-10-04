@@ -62,6 +62,7 @@ public class Main {
                     System.out.println( "Query result: " + df.format( timeValueResult ) );
                 }
             }
-        }    }
+        }
+    }
 
 }
