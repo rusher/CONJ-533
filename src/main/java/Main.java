@@ -11,10 +11,9 @@ public class Main {
 
     public static void main(String [] args) throws Exception {
 
-        String dbUrl = "jdbc:mariadb://localhost:3306/testj?log=true";
+        String dbUrl = "jdbc:mariadb://localhost:3306/time_test?log=true";
         String dbUsername = "root";
-//        String dbPassword = "v@gRan2#";
-        String dbPassword = null;
+        String dbPassword = "v@gRan2#";
 
 
         //log system info
